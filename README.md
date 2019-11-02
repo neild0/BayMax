@@ -1,4 +1,5 @@
-# BayMax: An AI Healthcare Companion #PoweredByTF2.0
+# BayMax: An AI Healthcare Companion 
+## A Winner of TensorFlow #PoweredByTF2.0 Challenge: [Submission here](https://devpost.com/software/baymax-ohef01)
 ## Overview
 Diagnosing diseases automatically has been an immense challenge, owing to their variable properties and symptoms. On the other hand, Neural Networks (NNs) have developed into a powerful tool in the field of machine learning, one that is showing to be promising at computing diagnosis even with inconsistent variables. 
 
